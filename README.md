@@ -13,4 +13,22 @@ Key features include:
 
   4. Statistical insights and correlation analysis
 
+Project Highlights:
+
+ - EDA: Distribution analysis, correlation calculations, outlier detection
+
+ - Visualization: Scatter plots, histograms, box plots, regression lines
+
+ - Modeling: Linear regression with statistical validation
+
+ - Insights: Salary growth patterns, prediction intervals, key metrics
+
+Findings:
+
+ - Strong positive correlation (r > 0.98) between experience and salary
+
+ - Linear model explains ~95% of salary variance
+
+ - Predictable salary progression with increasing experience
+
 Technologies: Python, Pandas, Matplotlib, Seaborn, Statsmodels
